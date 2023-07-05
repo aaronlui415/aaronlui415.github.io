@@ -30,6 +30,22 @@ body {
     background-color: #3ba9ee
 }
 
+.portfoliobanner{
+    display: grid;
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    background-color: #3ba9ee
+}
+
+.contactbanner{
+    display: grid;
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    background-color: #3ba9ee
+}
+
 .bannertext {
     display: grid;
     height: 210px;
